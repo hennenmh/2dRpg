@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{575CFB57-3C26-B9A1-7D51-61557CF69D6D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BattleStarter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BattleChar.cs" Line="1" Column="14" />
+      <File FileName="Assets/Scripts/BattleManager.cs" Line="344" Column="43" />
+      <File FileName="Assets/Scripts/GameOver.cs" />
+      <File FileName="Assets/Scripts/EssentialsLoader.cs" />
+      <File FileName="Assets/Scripts/BattleReward.cs" Line="71" Column="66" />
+      <File FileName="Assets/Scripts/BattleType.cs" Line="10" Column="33" />
+      <File FileName="Assets/Scripts/BattleStarter.cs" Line="96" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2D RPG" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BattleStarter.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bce1aa4f-d270-4d14-ab58-360622b1891b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
